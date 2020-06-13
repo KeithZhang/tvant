@@ -1,0 +1,31 @@
+export default {
+  pages: [
+    'pages/demo/index',
+    'pages/index/index',
+    'pages/demo/sticky/index',
+    'pages/demo/image/index',
+    'pages/demo/button/index',
+    'pages/demo/loading/index',
+    'pages/demo/tabbar/index',
+    'pages/demo/icon/index',
+    'pages/demo/popup/index',
+    'pages/demo/overlay/index',
+    'pages/demo/grid/index',
+    'pages/demo/action-sheet/index',
+    'pages/demo/transition/index',
+    'pages/demo/tabs/index',
+    'pages/demo/nav-bar/index',
+    'pages/demo/cell/index',
+    'pages/demo/tag/index',
+    'pages/demo/layout/index',
+    'pages/demo/field/index',
+    'pages/demo/toast/index',
+  ],
+  window: {
+    backgroundTextStyle: 'light',
+    navigationBarBackgroundColor: '#fff',
+    navigationBarTitleText: 'WeChat',
+    navigationBarTextStyle: 'black',
+    navigationStyle: "custom",
+  }
+}
